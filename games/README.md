@@ -18,4 +18,4 @@
 Составить портрет игрока для каждого региона.
 
 ## Библиотеки
-pandas scipy numpy matplotlib seaborn
+*pandas scipy numpy matplotlib seaborn*
