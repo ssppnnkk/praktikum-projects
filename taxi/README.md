@@ -1,2 +1,12 @@
-# yandex-praktikum-projects
-Yandex projects
+# Taxi
+## Данные
+
+В наличии были исторические данные с о заказах такси в аэропортах.
+
+
+## Задача
+Создание модели для прогнозирования количества заказов на следующий час.
+
+
+## Библиотеки
+*pandas numpy statsmodels sklearn catboost lightgbm matplotlib*
