@@ -1,2 +1,10 @@
-# yandex-praktikum-projects
-Yandex projects
+# Gold recovery
+## Данные
+
+В наличии были  данные с параметрами добычи и очистки.
+
+## Задача
+Создание модели для предсказания коэффициента восстановления золота из золотосодержащей руды. 
+
+## Библиотеки
+*pandas numpy scipy matplotlib seaborn sklearn*
