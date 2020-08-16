@@ -1,2 +1,12 @@
-# yandex-praktikum-projects
-Yandex projects
+# Photo
+## Данные
+
+В наличии был набор фотографий людей.
+
+
+## Задача
+Созданть модель, которая по фотографии определит приблизительный возраст человека. 
+
+
+## Библиотеки
+*pandas numpy matplotlib tensorflow*
